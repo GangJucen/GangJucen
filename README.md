@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GangJucen
-- 👀 I’m interested in basketball
-- 🌱 I’m currently learning civil engineering
-- 💞️ I’m looking to collaborate on the project related to GPR and RF sensor
+- 👀 I’m interested in engineer
+- 🌱 I’m currently learning numerical analysis,PDE, Deep Learning and Mechanical/Civil/Electrical engineer
+- 💞️ I’m looking to collaborate on the project related to all engineer fields
 - 📫 How to reach me ...
 
 <!---
